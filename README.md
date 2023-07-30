@@ -4,7 +4,7 @@
 
 I am slowly moving all of my personal projects from Github to [Codeberg](https://codeberg.org/). Maybe you will find something interesting there!
 
-Check out my Codeberg profile [here](https://codeberg.org/fourstepper).
+Check my Codeberg profile out [here](https://codeberg.org/fourstepper).
 
 ### FAQ
 
