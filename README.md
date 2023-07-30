@@ -1,5 +1,11 @@
 ## Welcome!
 
+#### Migrating to Codeberg
+
+I am slowly moving all of my personal projects from Github to [Codeberg](https://codeberg.org/). Maybe you will find something interesting there!
+
+Check out my Codeberg profile [here](https://codeberg.org/fourstepper).
+
 ### FAQ
 
 #### Who are you?
@@ -19,9 +25,3 @@ See also my [online identity](https://keyoxide.org/me%40robinopletal.com)
   - [Free Software](https://writefreesoftware.org/learn)
   - Reliable systems
   - The right tools for the job
-
-#### More repositories?
-
-I am slowly moving all of my personal projects from Github to [Codeberg](https://codeberg.org/). Maybe you will find something interesting there!
-
-Check out my Codeberg profile [here](https://codeberg.org/fourstepper).
