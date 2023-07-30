@@ -12,7 +12,7 @@ Check my Codeberg profile out [here](https://codeberg.org/fourstepper).
 
 I am Robin. You can usually find me as _fourstepper_ on the internet.
 
-See also my [online identity](https://keyoxide.org/me%40robinopletal.com)
+See also my [online identity](https://keyoxide.org/me%40robinopletal.com).
 
 #### What do you do?
 
