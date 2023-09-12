@@ -8,7 +8,7 @@ Check my Codeberg profile out [here](https://codeberg.org/fourstepper).
 
 #### Why Codeberg?
 
-- It's entirely [Free Software](https://writefreesoftware.org/learn) run by a [non-profit](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F).
+- It's entirely [Free Software](https://writefreesoftware.org/learn) run by a [non-profit](https://docs.codeberg.org/getting-started/what-is-codeberg/#what-is-codeberg-e.v.%3F)
 - Features a free CI service on-request for public repositories based on [Woodpecker](https://woodpecker-ci.org/)
 - You can also use your own CI runners with the Github Actions-compatible [Gitea Actions](https://docs.gitea.com/usage/actions/overview)
 - Why Github? :) Doesn't it make sense to host open-source code on an open-source platform?
