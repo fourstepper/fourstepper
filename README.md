@@ -6,12 +6,12 @@ See also my [online identity](https://keyoxide.org/me%40robinopletal.com).
 
 ## What I do?
 
-- Infrastructure Engineer/SRE/"DevOps Engineer" at [Heureka Group](https://heureka.group/cz-en/)
+- Infrastructure Engineer / SRE / "DevOps Engineer" at [Heureka Group](https://heureka.group/cz-en/)
 - I am busy keeping a (small) part of the internet up and running, such as:
   - https://heureka.cz, https://heureka.sk
   - https://robinopletal.com
   - https://chloewinkel.com
 - Excited about:
-  - [Free Software](https://writefreesoftware.org/learn)
   - Reliable systems
   - The right tools for the job
+  - Free Software
