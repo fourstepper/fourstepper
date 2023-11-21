@@ -4,7 +4,7 @@ I am Robin. You can usually find me as _fourstepper_ on the internet.
 
 See also my [online identity](https://keyoxide.org/me%40robinopletal.com).
 
-## What I do?
+### What I do?
 
 - I currently work as an Infrastructure Engineer / SRE / "DevOps Engineer" at [Heureka Group](https://heureka.group/cz-en/)
 - I am busy keeping a (small) part of the internet up and running, such as:
@@ -16,7 +16,7 @@ See also my [online identity](https://keyoxide.org/me%40robinopletal.com).
   - The right tools for the job
   - Free Software
 
-## Get in touch!
+### Get in touch!
 
 If you think we should talk, feel free to reach out to me!
 
