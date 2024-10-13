@@ -2,8 +2,6 @@
 
 I am Robin. You can usually find me as _fourstepper_ on the internet.
 
-See also my [online identity](https://keyoxide.org/me%40robinopletal.com).
-
 ### I'm most excited about
 
 - Reliable systems
